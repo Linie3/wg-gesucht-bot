@@ -1,1 +1,1 @@
-# wg_bot
+# wg-gesucht-bot
